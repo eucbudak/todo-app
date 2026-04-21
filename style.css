@@ -157,7 +157,7 @@ header h1 {
 }
 
 .check-btn:hover {
-  border-color: #6c63ff;
+  border-color: #ef4444;
 }
 
 .check-btn svg {
@@ -167,8 +167,8 @@ header h1 {
 }
 
 .todo-item.completed .check-btn {
-  background: #6c63ff;
-  border-color: #6c63ff;
+  background: #ef4444;
+  border-color: #ef4444;
 }
 
 .todo-item.completed .check-btn svg {
