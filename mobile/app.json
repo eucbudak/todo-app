@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Emre'nin İş Listesi",
+    "slug": "emre-todo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "emretodo",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.eucbudak.emretodo"
+    },
+    "android": {
+      "package": "com.eucbudak.emretodo",
+      "adaptiveIcon": {
+        "backgroundColor": "#6c63ff"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
