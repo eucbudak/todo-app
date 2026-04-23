@@ -19,6 +19,12 @@
     },
     "web": {
       "bundler": "metro"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "136c57e8-7c49-4e31-9918-80d50d3c98a8"
+      }
+    },
+    "owner": "eucbudak"
   }
 }
